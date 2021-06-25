@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "name": "Noni",
+    "gender": "Male",
+    "birthday": "4/17/2021",
+    "type": "Tabby",
+    "color": "Brown",
+    "adopted": false
+  }, {
+    "id": 2,
+    "name": "Tucker",
+    "gender": "Male",
+    "birthday": "4/17/2021",
+    "type": "Tabby",
+    "color": "Brown",
+    "adopted": false
+  }, {
+    "id": 3,
+    "name": "Chan",
+    "gender": "Male",
+    "birthday": "4/17/2021",
+    "type": "Siamese",
+    "color": "White",
+    "adopted": false
+  }]
