@@ -3,7 +3,7 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/foster_hall_of_fame">Foster Hall of Fame</router-link>
   </div>
-  <router-view/>
+  <router-view />
 </template>
 
 <style>

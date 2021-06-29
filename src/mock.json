@@ -1,4 +1,5 @@
-[{
+[
+  {
     "id": 1,
     "name": "Noni",
     "sex": "Male",
@@ -6,7 +7,8 @@
     "breed": "Tabby",
     "color": "White, Tabby",
     "adopted": false
-  }, {
+  },
+  {
     "id": 2,
     "name": "Tucker",
     "sex": "Male",
@@ -14,7 +16,8 @@
     "breed": "Tabby",
     "color": "White, Tabby",
     "adopted": false
-  }, {
+  },
+  {
     "id": 3,
     "name": "Chan",
     "sex": "Male",
@@ -22,4 +25,5 @@
     "breed": "Siamese",
     "color": "Cream",
     "adopted": false
-  }]
+  }
+]

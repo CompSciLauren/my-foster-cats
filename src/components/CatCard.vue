@@ -11,16 +11,16 @@
 
 <script>
 export default {
-  name: 'CatWorld',
+  name: "CatWorld",
   props: {
     name: String,
     sex: String,
     birthday: String,
     breed: String,
     color: String,
-    description: String
-  }
-}
+    description: String,
+  },
+};
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
@@ -40,8 +40,8 @@ a {
   color: #42b983;
 }
 .CatCardContainer {
-    margin: 8px 8px;
-    border: 2px dotted green;
-    background-color: #c0f3e6;
+  margin: 8px 8px;
+  border: 2px dotted green;
+  background-color: #c0f3e6;
 }
 </style>

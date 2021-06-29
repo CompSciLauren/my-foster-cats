@@ -2,7 +2,8 @@
   <div class="FosterHallOfFame">
     <h1>{{ msg }}</h1>
     <p>
-      Here are all of the cats I have had the pleasure of fostering in the past, who have now been adopted into their forever homes.
+      Here are all of the cats I have had the pleasure of fostering in the past,
+      who have now been adopted into their forever homes.
     </p>
     <p>Cat bios here</p>
   </div>
@@ -10,11 +11,11 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: "HelloWorld",
   props: {
-    msg: String
-  }
-}
+    msg: String,
+  },
+};
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
