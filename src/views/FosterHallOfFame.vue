@@ -1,16 +1,16 @@
 <template>
-  <div class="home">
+  <div class="FosterHallOfFame">
     <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="My Foster Cats"/>
+    <HelloWorld msg="Foster Hall of Fame"/>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/Home.vue'
+import HelloWorld from '@/components/FosterHallOfFame.vue'
 
 export default {
-  name: 'Home',
+  name: 'FosterHallOfFame',
   components: {
     HelloWorld
   }

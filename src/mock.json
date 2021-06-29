@@ -1,25 +1,25 @@
 [{
     "id": 1,
     "name": "Noni",
-    "gender": "Male",
-    "birthday": "4/17/2021",
-    "type": "Tabby",
-    "color": "Brown",
+    "sex": "Male",
+    "birthday": "4/01/2021",
+    "breed": "Tabby",
+    "color": "White, Tabby",
     "adopted": false
   }, {
     "id": 2,
     "name": "Tucker",
-    "gender": "Male",
-    "birthday": "4/17/2021",
-    "type": "Tabby",
-    "color": "Brown",
+    "sex": "Male",
+    "birthday": "4/01/2021",
+    "breed": "Tabby",
+    "color": "White, Tabby",
     "adopted": false
   }, {
     "id": 3,
     "name": "Chan",
-    "gender": "Male",
-    "birthday": "4/17/2021",
-    "type": "Siamese",
-    "color": "White",
+    "sex": "Male",
+    "birthday": "4/01/2021",
+    "breed": "Siamese",
+    "color": "Cream",
     "adopted": false
   }]
