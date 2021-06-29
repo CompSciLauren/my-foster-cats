@@ -1,6 +1,7 @@
 <template>
   <div class="CatCardContainer">
     <h1>{{ name }}</h1>
+    <img width="300" alt="Alt text" :src="img_src" />
     <p>Sex: {{ sex }}</p>
     <p>Birthday: {{ birthday }}</p>
     <p>Breed: {{ breed }}</p>
@@ -14,6 +15,7 @@ export default {
   name: "CatWorld",
   props: {
     name: String,
+    img_src: String,
     sex: String,
     birthday: String,
     breed: String,

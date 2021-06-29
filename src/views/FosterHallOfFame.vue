@@ -1,6 +1,6 @@
 <template>
   <div class="FosterHallOfFame">
-    <img alt="Vue logo" src="../assets/logo.png" />
+    <img width="1000" alt="Three kittens looking directly at the camera" src="../assets/home_image.jpg" />
     <HelloWorld msg="Foster Hall of Fame" />
   </div>
 </template>
