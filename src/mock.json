@@ -4,7 +4,7 @@
     "name": "Noni",
     "sex": "Male",
     "birthday": "4/01/2021",
-    "breed": "Tabby",
+    "breed": "Tabby, Domestic Short Hair",
     "color": "White, Tabby",
     "adopted": false
   },
@@ -13,7 +13,7 @@
     "name": "Tucker",
     "sex": "Male",
     "birthday": "4/01/2021",
-    "breed": "Tabby",
+    "breed": "Tabby, Domestic Short Hair",
     "color": "White, Tabby",
     "adopted": false
   },
@@ -22,7 +22,7 @@
     "name": "Chan",
     "sex": "Male",
     "birthday": "4/01/2021",
-    "breed": "Siamese",
+    "breed": "Siamese, Domestic Short Hair, Mixed",
     "color": "Cream",
     "adopted": false
   }
