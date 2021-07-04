@@ -24,6 +24,7 @@
     "birthday": "4/01/2021",
     "breed": "Siamese, Domestic Short Hair, Mixed",
     "color": "Cream",
-    "adopted": false
+    "adopted": true,
+    "adopted_date": "7/03/2021"
   }
 ]

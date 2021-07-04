@@ -23,16 +23,6 @@
         color="White and Tabby"
         description="Tucker is a very sweet boy who loves to lay in your lap whenever he isn’t running around exploring and playing. He prefers to lay right in your lap, but if that’s not available, he will lay on one leg or even a back instead! He prefers hanging out in whatever room the humans are in and enjoys wrestling with his fellow kittens. He also loves chasing after and jumping up to reach his favorite wand toy. Whenever he wants a break or gets tired, he seeks out a nice human to lay on and usually continues attempting to play a little as he slowly but surely passes out. Tucker would do really well in a home where he can spend some quality time with people regularly. He would also benefit from a playmate since he enjoys socializing and being active."
       />
-      <CatWorld
-        class="CatCardItem"
-        :img_src="ChanPicture"
-        name="Chan"
-        sex="Male"
-        birthday="04/01/2021"
-        breed="Siamese"
-        color="Cream"
-        description="Chan is hilarious and always in the middle of whatever action is going on. He is the most active kitten in his group and he loves all toys and games. He makes friends easily with kittens and humans, even warming up to strangers relatively quickly. When he wants something, you can see the focus in his eyes and he will do his best to achieve whatever goal is in his mind. He absolutely loves food and will attempt in vain to steal human food if he thinks he has a chance. Whenever he hears or sees a can of wet food being opened, he meows a lot and runs around excitedly. He has a very soft and raspy meow. For a kitten who is normally so rambunctious and brave, his meow is just adorable. When he finally tires himself out, he likes to sleep in or near your lap."
-      />
     </div>
   </div>
 </template>
@@ -44,7 +34,6 @@ import CatWorld from "@/components/CatCard.vue";
 
 import NoniPicture from '../assets/kitten_set_1/Noni.jpg'
 import TuckerPicture from '../assets/kitten_set_1/Tucker.jpg'
-import ChanPicture from '../assets/kitten_set_1/Chan.jpg'
 
 export default {
   name: "Home",
@@ -56,7 +45,6 @@ export default {
     return {
       NoniPicture,
       TuckerPicture,
-      ChanPicture,
     }
   }
 };

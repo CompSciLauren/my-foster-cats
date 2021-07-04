@@ -5,7 +5,6 @@
       Here are all of the cats I have had the pleasure of fostering in the past,
       who have now been adopted into their forever homes.
     </p>
-    <p>None yet! Fostering first set of kittens ever currently. :)</p>
   </div>
 </template>
 
