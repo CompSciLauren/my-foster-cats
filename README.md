@@ -4,23 +4,19 @@
 
 ## Contents
 
-- [Project setup](#project-setup)
+- [Development Setup](#development-setup)
   - [Compiles and hot-reloads for development](#compiles-and-hot-reloads-for-development)
   - [Compiles and minifies for production](#compiles-and-minifies-for-production)
-  - [Linter](#linter)
+  - [Other Useful Scripts](#other-useful-scripts)
   - [Customize configuration](#customize-configuration)
 - [Built With](#built-with)
 
-## Project setup
+## Development Setup
 
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-
-```
-npm run serve
+1. Clone or download the repo
+2. Run `npm install`
+3. Run `npm run serve` to start server
 ```
 
 ### Compiles and minifies for production
@@ -29,10 +25,13 @@ npm run serve
 npm run build
 ```
 
-### Linter
+### Other Useful Scripts
 
 ```
-npm run lint
+Prettier: `npm run prettier`
+Linter: `npm run lint`
+Testing: `npm run test`
+Coverage: `npm run coverage`
 ```
 
 ### Customize configuration
