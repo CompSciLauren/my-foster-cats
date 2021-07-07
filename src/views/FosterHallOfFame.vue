@@ -19,7 +19,7 @@
 
 <script>
 // @ is an alias to /src
-import HelloWorld from "@/components/FosterHallOfFame.vue";
+import FosterWorld from "@/components/FosterHallOfFame.vue";
 import CatWorld from "@/components/CatCard.vue";
 
 import ChanPicture from '../assets/kitten_set_1/Chan.jpg'
@@ -27,7 +27,7 @@ import ChanPicture from '../assets/kitten_set_1/Chan.jpg'
 export default {
   name: "FosterHallOfFame",
   components: {
-    HelloWorld,
+    FosterWorld,
     CatWorld,
   },
   data() {

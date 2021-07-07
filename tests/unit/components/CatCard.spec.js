@@ -1,7 +1,7 @@
 import { shallowMount } from '@vue/test-utils'
 import CatWorld from '@/components/CatCard.vue'
 
-describe('HelloWorld.vue', () => {
+describe('CatWorld.vue', () => {
   const props = {
     name: 'Hank',
     img_src: 'imgsrc123',
